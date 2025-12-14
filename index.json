@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "classic",
+      "title": "Classic",
+      "firstPage": "/category/classic_page_1.json"
+    },
+    {
+      "id": "remix",
+      "title": "Remix",
+      "firstPage": "/category/remix_page_1.json"
+    }
+  ]
+}
