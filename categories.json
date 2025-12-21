@@ -1,0 +1,34 @@
+[
+  {
+    "id": "classic",
+    "name": "Classic"
+  },
+  {
+    "id": "remix",
+    "name": "Remix"
+  },
+  {
+    "id": "funny",
+    "name": "Funny"
+  },
+  {
+    "id": "animal",
+    "name": "Animal"
+  },
+  {
+    "id": "cybperpunk",
+    "name": "Cyperpunk"
+  },
+  {
+    "id": "lofi",
+    "name": "Lofi"
+  },
+  {
+    "id": "minimalist",
+    "name": "Minimalist"
+  },
+  {
+    "id": "relax",
+    "name": "Relax"
+  }
+]

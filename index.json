@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "last_updated": "2024-05-20",
   "categories": [
     {
       "id": "classic",
@@ -7,9 +8,24 @@
       "firstPage": "/category/classic_page_1.json"
     },
     {
-      "id": "remix",
-      "title": "Remix",
-      "firstPage": "/category/remix_page_1.json"
+      "id": "funny",
+      "title": "Funny",
+      "firstPage": "/category/funny_page_1.json"
+    },
+    {
+      "id": "animal",
+      "title": "Animal",
+      "firstPage": "/category/animal_page_1.json"
+    },
+    {
+      "id": "minimalist",
+      "title": "Minimalist",
+      "firstPage": "/category/minimalist_page_1.json"
+    },
+    {
+      "id": "relax",
+      "title": "Relax",
+      "firstPage": "/category/relax_page_1.json"
     }
   ]
 }

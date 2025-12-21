@@ -1,0 +1,90 @@
+{
+  "category_id": "classic",
+  "category_name": "Classic",
+  "current_page": 3,
+  "total_pages": 3,
+  "items_per_page": 10,
+  "total_items": 26,
+  "has_next": false,
+  "next_page_url": null,
+  "data": [
+    {
+      "id": "21",
+      "title": "508777  Rvgerxini  Ringing Ringtone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 60,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/508777__rvgerxini__ringing-ringtone.mp3",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/508777__rvgerxini__ringing-ringtone.mp3"
+    },
+    {
+      "id": "22",
+      "title": "773741  Avreference  Bass Ringtone 01",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1550,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/773741__avreference__bass-ringtone-01.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/773741__avreference__bass-ringtone-01.wav"
+    },
+    {
+      "id": "23",
+      "title": "487167  Bastian25  Phone At Work",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 117,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/487167__bastian25__phone-at-work.mp3",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/487167__bastian25__phone-at-work.mp3"
+    },
+    {
+      "id": "24",
+      "title": "499376  16Hpanskakajukm  10 Mobile Ringtone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 2723,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/499376__16hpanskakajukm__10_mobile_ringtone.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/499376__16hpanskakajukm__10_mobile_ringtone.wav"
+    },
+    {
+      "id": "25",
+      "title": "271152  Chriswr  Legacy Ringtone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 408,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/271152__chriswr__legacy-ringtone.mp3",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/271152__chriswr__legacy-ringtone.mp3"
+    },
+    {
+      "id": "26",
+      "title": "133985  Grizzbiz15  Ringtone 1",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 953,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/133985__grizzbiz15__ringtone-1.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/133985__grizzbiz15__ringtone-1.wav"
+    }
+  ]
+}

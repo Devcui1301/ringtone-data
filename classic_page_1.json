@@ -1,0 +1,142 @@
+{
+  "category_id": "classic",
+  "category_name": "Classic",
+  "current_page": 1,
+  "total_pages": 3,
+  "items_per_page": 10,
+  "total_items": 26,
+  "has_next": true,
+  "next_page_url": "/category/classic_page_2.json",
+  "data": [
+    {
+      "id": "1",
+      "title": "773742  Avreference  Bass Ringtone 02",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1206,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/773742__avreference__bass-ringtone-02.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/773742__avreference__bass-ringtone-02.wav"
+    },
+    {
+      "id": "2",
+      "title": "345808  Knufds  Ringtone Gvc Desk Phone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1685,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/345808__knufds__ringtone-gvc-desk-phone.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/345808__knufds__ringtone-gvc-desk-phone.wav"
+    },
+    {
+      "id": "3",
+      "title": "498368  Aurea  Mobile Phone Nokia 8210 Three Ringtones",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 2997,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/498368__aurea__mobile_phone_nokia_8210_three_ringtones.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/498368__aurea__mobile_phone_nokia_8210_three_ringtones.wav"
+    },
+    {
+      "id": "4",
+      "title": "615465  Melokacool  Ringtone Phone Ringing 1",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 333,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/615465__melokacool__ringtone-phone-ringing-1.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/615465__melokacool__ringtone-phone-ringing-1.wav"
+    },
+    {
+      "id": "5",
+      "title": "729442  Anonio82  Telephone Call",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 431,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/729442__anonio82__telephone-call.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/729442__anonio82__telephone-call.wav"
+    },
+    {
+      "id": "6",
+      "title": "Phone Call Sound 376220",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 253,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/phone-call-sound-376220.mp3",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/phone-call-sound-376220.mp3"
+    },
+    {
+      "id": "7",
+      "title": "773757  Anonio82  Ring Tone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1034,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/773757__anonio82__ring_tone.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/773757__anonio82__ring_tone.wav"
+    },
+    {
+      "id": "8",
+      "title": "759640  Migfus20  Alarm Ringtone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 14444,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/759640__migfus20__alarm-ringtone.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/759640__migfus20__alarm-ringtone.wav"
+    },
+    {
+      "id": "9",
+      "title": "512676  Morkysound  Mixolydian Ringtone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1213,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/512676__morkysound__mixolydian-ringtone.wav",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/512676__morkysound__mixolydian-ringtone.wav"
+    },
+    {
+      "id": "10",
+      "title": "273540  Thezero  Simple Ringtone",
+      "category": "classic",
+      "tags": [
+        "classic",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 111,
+      "preview_url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/273540__thezero__simple-ringtone.mp3",
+      "url": "https://pub-5f3151649af143869aadf07dcd279a62.r2.dev/ringtone/all/273540__thezero__simple-ringtone.mp3"
+    }
+  ]
+}
