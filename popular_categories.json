@@ -1,0 +1,30 @@
+[
+  {
+    "id": "remix",
+    "name": "Trending Remix",
+    "icon_url": "https://bettery.art/ringtone/icon/remix.png",
+    "tag": "Hot",
+    "endpoint": "/category/remix_page_1.json"
+  },
+  {
+    "id": "relax",
+    "name": "Relaxing Nature",
+    "icon_url": "https://bettery.art/ringtone/icon/nature.png",
+    "tag": "New",
+    "endpoint": "/category/relax_page_1.json"
+  },
+  {
+    "id": "funny",
+    "name": "Funny Sounds",
+    "icon_url": "https://bettery.art/ringtone/icon/funny.png",
+    "tag": "Popular",
+    "endpoint": "/category/funny_page_1.json"
+  },
+  {
+    "id": "lofi",
+    "name": "Lofi Chill",
+    "icon_url": "https://bettery.art/ringtone/icon/lofi.png",
+    "tag": "Trend",
+    "endpoint": "/category/lofi_page_1.json"
+  }
+]
