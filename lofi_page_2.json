@@ -1,0 +1,129 @@
+{
+  "category_id": "lofi",
+  "category_name": "Lofi",
+  "current_page": 2,
+  "total_pages": 2,
+  "items_per_page": 10,
+  "total_items": 19,
+  "has_next": false,
+  "next_page_url": null,
+  "data": [
+    {
+      "id": "11",
+      "title": "Lofi Ringtone15",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone15.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone15.wav"
+    },
+    {
+      "id": "12",
+      "title": "Praise Ringtone4",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone4.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone4.wav"
+    },
+    {
+      "id": "13",
+      "title": "Praise Ringtone5",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 618,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone5.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone5.wav"
+    },
+    {
+      "id": "14",
+      "title": "Lofi Ringtone7",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone7.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone7.wav"
+    },
+    {
+      "id": "15",
+      "title": "Lofi Ringtone6",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 618,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone6.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone6.wav"
+    },
+    {
+      "id": "16",
+      "title": "Praise Ringtone2",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone2.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone2.wav"
+    },
+    {
+      "id": "17",
+      "title": "Lofi Ringtone3",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone3.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone3.wav"
+    },
+    {
+      "id": "18",
+      "title": "Lofi Ringtone1",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone1.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone1.wav"
+    },
+    {
+      "id": "19",
+      "title": "Lofi Ringtone0",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 1243,
+      "preview_url": "https://bettery.art/ringtone/lofi/lofi-ringtone0.wav",
+      "url": "https://bettery.art/ringtone/lofi/lofi-ringtone0.wav"
+    }
+  ]
+}
