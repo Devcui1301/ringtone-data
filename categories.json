@@ -1,5 +1,13 @@
 [
   {
+    "id": "hot",
+    "name": "Hot"
+  },
+  {
+    "id": "blash-ringtone",
+    "name": "Blash-Ringtone"
+  },
+  {
     "id": "classic",
     "name": "Classic"
   },
