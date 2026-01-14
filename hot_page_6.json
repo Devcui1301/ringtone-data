@@ -1,0 +1,142 @@
+{
+  "category_id": "hot",
+  "category_name": "Hot",
+  "current_page": 6,
+  "total_pages": 7,
+  "items_per_page": 10,
+  "total_items": 65,
+  "has_next": true,
+  "next_page_url": "/category/hot_page_7.json",
+  "data": [
+    {
+      "id": "51",
+      "title": "Whimsy In The Afternoon (1)",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 5356,
+      "preview_url": "https://bettery.art/ringtone/hot/Whimsy In The Afternoon (1).mp3",
+      "url": "https://bettery.art/ringtone/hot/Whimsy In The Afternoon (1).mp3"
+    },
+    {
+      "id": "52",
+      "title": "Ringtone Whimsyintheafternoon(1) 4",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon(1)-4.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon(1)-4.mp3"
+    },
+    {
+      "id": "53",
+      "title": "Ringtone Whimsyintheafternoon(1) 5",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon(1)-5.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon(1)-5.mp3"
+    },
+    {
+      "id": "54",
+      "title": "Ringtone Eveningwindows(1) 1",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows(1)-1.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows(1)-1.mp3"
+    },
+    {
+      "id": "55",
+      "title": "Ringtone Eveningwindows 5",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows-5.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows-5.mp3"
+    },
+    {
+      "id": "56",
+      "title": "Ringtone Midnightoncruisecontrol(1) 1",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-midnightoncruisecontrol(1)-1.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-midnightoncruisecontrol(1)-1.mp3"
+    },
+    {
+      "id": "57",
+      "title": "Ringtone Eveningwindows 4",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows-4.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows-4.mp3"
+    },
+    {
+      "id": "58",
+      "title": "Ringtone Midnightoncruisecontrol(1) 3",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-midnightoncruisecontrol(1)-3.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-midnightoncruisecontrol(1)-3.mp3"
+    },
+    {
+      "id": "59",
+      "title": "Ringtone Midnightoncruisecontrol(1) 2",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 686,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-midnightoncruisecontrol(1)-2.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-midnightoncruisecontrol(1)-2.mp3"
+    },
+    {
+      "id": "60",
+      "title": "Whimsy In The Afternoon",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 5857,
+      "preview_url": "https://bettery.art/ringtone/hot/Whimsy In The Afternoon.mp3",
+      "url": "https://bettery.art/ringtone/hot/Whimsy In The Afternoon.mp3"
+    }
+  ]
+}

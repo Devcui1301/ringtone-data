@@ -1,0 +1,142 @@
+{
+  "category_id": "hot",
+  "category_name": "Hot",
+  "current_page": 2,
+  "total_pages": 7,
+  "items_per_page": 10,
+  "total_items": 65,
+  "has_next": true,
+  "next_page_url": "/category/hot_page_3.json",
+  "data": [
+    {
+      "id": "11",
+      "title": "Ringtone Sunflowercarousel(1) 1",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel(1)-1.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel(1)-1.mp3"
+    },
+    {
+      "id": "12",
+      "title": "Ringtone Eveningwindows(2) 4",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows(2)-4.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-eveningwindows(2)-4.mp3"
+    },
+    {
+      "id": "13",
+      "title": "Ringtone Sunflowercarousel 7",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-7.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-7.mp3"
+    },
+    {
+      "id": "14",
+      "title": "Ringtone Whimsyintheafternoon 1",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon-1.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon-1.mp3"
+    },
+    {
+      "id": "15",
+      "title": "Ringtone Sunflowercarousel 6",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-6.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-6.mp3"
+    },
+    {
+      "id": "16",
+      "title": "Ringtone Sunflowercarousel(1) 2",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel(1)-2.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel(1)-2.mp3"
+    },
+    {
+      "id": "17",
+      "title": "Ringtone Sunflowercarousel 4",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-4.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-4.mp3"
+    },
+    {
+      "id": "18",
+      "title": "Ringtone Whimsyintheafternoon 3",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon-3.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon-3.mp3"
+    },
+    {
+      "id": "19",
+      "title": "Ringtone Whimsyintheafternoon 2",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon-2.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-whimsyintheafternoon-2.mp3"
+    },
+    {
+      "id": "20",
+      "title": "Ringtone Sunflowercarousel 5",
+      "category": "hot",
+      "tags": [
+        "hot",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-5.mp3",
+      "url": "https://bettery.art/ringtone/hot/ringtone-sunflowercarousel-5.mp3"
+    }
+  ]
+}
