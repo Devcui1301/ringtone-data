@@ -8,16 +8,8 @@
     "name": "Blash-Ringtone"
   },
   {
-    "id": "classic",
-    "name": "Classic"
-  },
-  {
     "id": "remix",
     "name": "Remix"
-  },
-  {
-    "id": "funny",
-    "name": "Funny"
   },
   {
     "id": "animal",
@@ -34,9 +26,5 @@
   {
     "id": "minimalist",
     "name": "Minimalist"
-  },
-  {
-    "id": "relax",
-    "name": "Relax"
   }
 ]
