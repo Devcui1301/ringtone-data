@@ -1,0 +1,142 @@
+{
+  "category_id": "remix",
+  "category_name": "Remix",
+  "current_page": 4,
+  "total_pages": 11,
+  "items_per_page": 10,
+  "total_items": 107,
+  "has_next": true,
+  "next_page_url": "/category/remix_page_5.json",
+  "data": [
+    {
+      "id": "31",
+      "title": "Ringtone Indiesunsplashremix(1) 3",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-indiesunsplashremix(1)-3.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-indiesunsplashremix(1)-3.mp3"
+    },
+    {
+      "id": "32",
+      "title": "Ringtone Dustonthedaydream 2",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-dustonthedaydream-2.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-dustonthedaydream-2.mp3"
+    },
+    {
+      "id": "33",
+      "title": "Ringtone Dancingcircuit 4",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-dancingcircuit-4.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-dancingcircuit-4.mp3"
+    },
+    {
+      "id": "34",
+      "title": "Ringtone Dancingcircuit 5",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 702,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-dancingcircuit-5.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-dancingcircuit-5.mp3"
+    },
+    {
+      "id": "35",
+      "title": "Ringtone Dustonthedaydream 3",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-dustonthedaydream-3.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-dustonthedaydream-3.mp3"
+    },
+    {
+      "id": "36",
+      "title": "Ringtone Neoncircuitbreaker 3",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 695,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-neoncircuitbreaker-3.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-neoncircuitbreaker-3.mp3"
+    },
+    {
+      "id": "37",
+      "title": "Ringtone Indiesunsplashremix(1) 2",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-indiesunsplashremix(1)-2.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-indiesunsplashremix(1)-2.mp3"
+    },
+    {
+      "id": "38",
+      "title": "Ringtone Midnighttidalloop(1) 8",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-midnighttidalloop(1)-8.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-midnighttidalloop(1)-8.mp3"
+    },
+    {
+      "id": "39",
+      "title": "Ringtone Starlightarcade 4",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 701,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-starlightarcade-4.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-starlightarcade-4.mp3"
+    },
+    {
+      "id": "40",
+      "title": "Ringtone Neoncircuitbreaker 1",
+      "category": "remix",
+      "tags": [
+        "remix",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/remix/ringtone-neoncircuitbreaker-1.mp3",
+      "url": "https://bettery.art/ringtone/remix/ringtone-neoncircuitbreaker-1.mp3"
+    }
+  ]
+}

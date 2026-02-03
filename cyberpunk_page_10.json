@@ -1,0 +1,142 @@
+{
+  "category_id": "cyberpunk",
+  "category_name": "Cyperpunk",
+  "current_page": 10,
+  "total_pages": 11,
+  "items_per_page": 10,
+  "total_items": 102,
+  "has_next": true,
+  "next_page_url": "/category/cyberpunk_page_11.json",
+  "data": [
+    {
+      "id": "91",
+      "title": "Ringtone Chromeghostloop 1",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-1.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-1.mp3"
+    },
+    {
+      "id": "92",
+      "title": "Ringtone Chromeghostloop 5",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-5.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-5.mp3"
+    },
+    {
+      "id": "93",
+      "title": "Ringtone Chromeghostsignal(1) 2",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostsignal(1)-2.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostsignal(1)-2.mp3"
+    },
+    {
+      "id": "94",
+      "title": "Ringtone Chromeghostsignal(1) 3",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostsignal(1)-3.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostsignal(1)-3.mp3"
+    },
+    {
+      "id": "95",
+      "title": "Ringtone Chromeghostloop 4",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-4.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-4.mp3"
+    },
+    {
+      "id": "96",
+      "title": "Ringtone Chromeghostloop 6",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-6.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostloop-6.mp3"
+    },
+    {
+      "id": "97",
+      "title": "Ringtone Chromeghostsignal(1) 1",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 703,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostsignal(1)-1.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromeghostsignal(1)-1.mp3"
+    },
+    {
+      "id": "98",
+      "title": "Cyber Punk 95771",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 104,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/cyber-punk-95771.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/cyber-punk-95771.mp3"
+    },
+    {
+      "id": "99",
+      "title": "Ringtone Chromed Outdaydream 4",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromed-outdaydream-4.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromed-outdaydream-4.mp3"
+    },
+    {
+      "id": "100",
+      "title": "Ringtone Chromed Outdaydream 5",
+      "category": "cyberpunk",
+      "tags": [
+        "cyberpunk",
+        "ringtone"
+      ],
+      "duration": 30,
+      "size_kb": 704,
+      "preview_url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromed-outdaydream-5.mp3",
+      "url": "https://bettery.art/ringtone/cyberpunk/ringtone-chromed-outdaydream-5.mp3"
+    }
+  ]
+}
