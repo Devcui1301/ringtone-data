@@ -24,6 +24,22 @@
     "name": "Lofi"
   },
   {
+    "id": "funny",
+    "name": "Funny"
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk"
+  },
+  {
+    "id": "relax",
+    "name": "Relax"
+  },
+  {
+    "id": "classic",
+    "name": "Classic"
+  },
+  {
     "id": "minimalist",
     "name": "Minimalist"
   }
